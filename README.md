@@ -62,22 +62,17 @@ Generates efficient maintenance routes based on detected cracks.
 A three-page app for inspection personnel.  
 
 - **Information Hub**: Map of detected defects with severity, type, and location.  
-- **Maintenance Plan Page**: Generate and view optimized maintenance plans.  
-
-![Image: User interface mockup]  
+- **Maintenance Plan Page**: Generate and view optimized maintenance plans. [Link to image](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/Maintain.png)
 
 ---
 
 ## 🔬 Technical Details  
 
 ### Dataset  
-- **RDD2022 dataset** with **47,420 images** from six countries.  
+- **RDD2022 dataset** with **47,420 images** from six countries. [Link to image](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/ImagesPerCountry.png)
 - Preprocessing: removed empty samples, converted annotations to YOLO format.  
 - Balanced dataset with undersampling by class.  
-- Split into **train, validation, and test**.  
-
-![Graph: Images per country]  
-![Graph: Class distribution across splits]  
+- Split into **train, validation, and test**. [Link to image](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/SplitTtainTest.png)
 
 ---
 
