@@ -6,10 +6,10 @@
 ---
 
 ## 👥 Team Members  
-- Aly Ahmed Sarhan  
+- Aly Ahmed Sarhan [@AlySarhan29](https://github.com/AlySarhan29)
 - Ali Alloush  
 - Yaman Shullar (Me)
-- Ahmad Nayfeh (https://github.com/Ahmad-Nayfeh)
+- Ahmad Nayfeh [@Ahmad-Nayfeh](https://github.com/Ahmad-Nayfeh)
 - Abdulrahman Alahmadi  
 
 ---
