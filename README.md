@@ -47,7 +47,7 @@ Runs on an **edge device** (Jetson Nano) for real-time crack detection and sever
 - **Distance & Depth Estimation**: RGB-D camera + LiDAR line scanner measure crack depth.  
 - **GPS Module**: Adafruit GPS captures crack locations.  
 
-<img src="(https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/Intel%20RealSense%20Camera.jpg)" alt="Image: Intel RealSense 435 camera model" width="300"/>
+<img src="https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/Intel%20RealSense%20Camera.jpg" alt="Image: Intel RealSense 435 camera model" width="300"/>
 ![]() 
 ![Diagram: YOLO detection process]  
 ![Image: Adafruit Ultimate GPS Breakout v3 module]  
