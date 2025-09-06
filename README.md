@@ -72,17 +72,16 @@ A three-page app for inspection personnel.
 - **RDD2022 dataset** with **47,420 images** from six countries. [Link to image](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/ImagesPerCountry.png)
 - Preprocessing: removed empty samples, converted annotations to YOLO format.  
 - Balanced dataset with undersampling by class.  
-- Split into **train, validation, and test**. [Link to image](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/SplitTtainTest.png)
+- Split into **train, validation, and test**. [Link to image](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/SplitsTtainTest.png)
 
 ---
 
-### Model Performance  
+### Model Performance (The Optimizaion Model)
 - Optimization model tested on **100 cracks**.  
 - Achieved **17.81% reduction** in objective function vs. standard process.  
 - Average optimization runtime: **3.6 minutes**.  
 
-![Table: Optimization results vs. baseline]  
-
+[Link to Table](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/Optimization.png)
 ---
 
 ### On-Site Experiments & Challenges  
@@ -91,7 +90,16 @@ The system was installed on a car for live testing.
 - **GPS Module**: Needed external antenna for accuracy.  
 - **Jetson Nano**: Configured in deployment mode; debugging harder but ensured hands-free operation.  
 
-![Video: On-site experiment with car installation]  
+
+![Video: On-site experiment with car installation](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/VidExp.mp4)
+![Video: On-site experiment with car installation](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/VidExp2.mp4)
+![On-site experiment with car installation](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/Exp1.jpg)
+![On-site experiment with car installation](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/Exp2.jpg)
+![On-site experiment with car installation](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/Exp3.jpg)
+
+
+
+
 
 ---
 
