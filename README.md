@@ -42,8 +42,7 @@ Road cracks are a significant issue caused by environmental and civilian factors
 ### 1. Detection and Classification System  
 Runs on an **edge device** (Jetson Nano) for real-time crack detection and severity classification.  
 
-- **Image Collector**: Intel RealSense 435 camera captures RGB + depth frames. <img src="https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/Intel%20RealSense%20Camera.jpg" alt="Image: Intel RealSense 435 camera model" width="30"/>
-
+- **Image Collector**: Intel RealSense 435 camera captures RGB + depth frames. <img src="https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/Intel%20RealSense%20Camera.jpg" alt="Image: Intel RealSense 435 camera model" width="50"/>
 - **Computer Vision Model**: YOLO model detects defects, outputs type and coordinates.  
 - **Distance & Depth Estimation**: RGB-D camera + LiDAR line scanner measure crack depth.  
 - **GPS Module**: Adafruit GPS captures crack locations.  
