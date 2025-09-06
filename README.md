@@ -8,8 +8,8 @@
 ## 👥 Team Members  
 - Aly Ahmed Sarhan  
 - Ali Alloush  
-- Yaman Shullar ()
-- Ahmad Nayfeh  
+- Yaman Shullar (Me)
+- Ahmad Nayfeh (https://github.com/Ahmad-Nayfeh)
 - Abdulrahman Alahmadi  
 
 ---
@@ -75,6 +75,12 @@ A three-page app for inspection personnel.
 - Split into **train, validation, and test**. [Link to image](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/SplitsTtainTest.png)
 
 ---
+
+### Model Performance (The Computer Vision Model)
+- Fine-Tuned YOLOv8 Nano - Main goal was to allow it work on a Jetson Nano.  
+- Achieved **74% mAP** in detection, 99% for the potholes.  
+- Average inference time: **3 sec**.  
+
 
 ### Model Performance (The Optimizaion Model)
 - Optimization model tested on **100 cracks**.  
