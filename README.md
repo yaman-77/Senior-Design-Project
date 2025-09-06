@@ -91,8 +91,10 @@ The system was installed on a car for live testing.
 - **Jetson Nano**: Configured in deployment mode; debugging harder but ensured hands-free operation.  
 
 
-![Video: On-site experiment with car installation](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/VidExp.mp4)
-![Video: On-site experiment with car installation](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/VidExp2.mp4)
+Link to experiment's video --> (https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/VidExp.mp4)
+Link to experiment's video --> (https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/VidExp2.mp4)
+
+
 ![On-site experiment with car installation](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/Exp1.jpg)
 ![On-site experiment with car installation](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/Exp2.jpg)
 ![On-site experiment with car installation](https://github.com/yaman-77/Senior-Design-Project/blob/main/Vids%26Images/Exp3.jpg)
